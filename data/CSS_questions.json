@@ -1,0 +1,107 @@
+[
+  {
+    "question": "If we want define style for an unique element, then which css selector will we use?",
+    "answers": [
+      {
+        "text": "Id",
+        "correct": true
+      },
+      {
+        "text": "class",
+        "correct": false
+      },
+      {
+        "text": "text",
+        "correct": false
+      },
+      {
+        "text": "name",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If we want to wrap a block of text around an image, which css property will we use?",
+    "answers": [
+      {
+        "text": "wrap",
+        "correct": false
+      },
+      {
+        "text": "float",
+        "correct": false
+      },
+      {
+        "text": "push",
+        "correct": true
+      },
+      {
+        "text": "align",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If we want to use a nice looking green dotted border around an image, which css property will we use?",
+    "answers": [
+      {
+        "text": "border-color",
+        "correct": false
+      },
+      {
+        "text": "border-style",
+        "correct": true
+      },
+      {
+        "text": "border-decoration",
+        "correct": false
+      },
+      {
+        "text": "border-line",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which element is used in the <HEAD> section on an HTML / XHTMLpage, if we want to use an external style sheet file to decorate the page ?",
+    "answers": [
+      {
+        "text": "<src>",
+        "correct": false
+      },
+      {
+        "text": "<style>",
+        "correct": false
+      },
+      {
+        "text": "<link>",
+        "correct": true
+      },
+      {
+        "text": "<css>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "How can we write comment along with CSS code ?",
+    "answers": [
+      {
+        "text": " /* a comment */",
+        "correct": true
+      },
+      {
+        "text": "/ a comment /",
+        "correct": false
+      },
+      {
+        "text": "// a comment //",
+        "correct": false
+      },
+      {
+        "text": "<' a comment'>",
+        "correct": false
+      }
+    ]
+  }
+]

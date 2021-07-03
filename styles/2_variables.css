@@ -1,0 +1,12 @@
+:root {
+  --light-color: #fff;
+  --dark-color: #1d1d1d;
+  --accent-color: #1d1d1d44;
+
+  --correct-color: #288a28;
+  --wrong-color: #a51818;
+
+  --html-color: #e54d28;
+  --css-color: #0a74b8;
+  --js-color: #dab92c;
+}

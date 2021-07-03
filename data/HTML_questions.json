@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      {
+        "text": "Hypertrophic Management Language",
+        "correct": false
+      },
+      {
+        "text": "Hyperberic Tertiary Logrithm",
+        "correct": false
+      },
+      {
+        "text": "Hypertext Markup Language",
+        "correct": true
+      },
+      {
+        "text": "Hyperresonant Marginal Logrithm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "HTML is what type of language ?",
+    "answers": [
+      {
+        "text": "Scripting Language",
+        "correct": false
+      },
+      {
+        "text": "Programming Language",
+        "correct": false
+      },
+      {
+        "text": "Markup Language",
+        "correct": true
+      },
+      {
+        "text": "Network Protocol",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fundamental HTML Block is known as ___________. ",
+    "answers": [
+      {
+        "text": "HTML Body",
+        "correct": false
+      },
+      {
+        "text": "HTML Attribute",
+        "correct": false
+      },
+      {
+        "text": "HTML Element",
+        "correct": false
+      },
+      {
+        "text": "HTML Tag",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Apart from <b> tag, what other tag makes text bold ? ",
+    "answers": [
+      {
+        "text": "<fat>",
+        "correct": false
+      },
+      {
+        "text": "<black>",
+        "correct": false
+      },
+      {
+        "text": "<strong>",
+        "correct": true
+      },
+      {
+        "text": "<emp>",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tags and texts that are not directly displayed on the page are written in _____ section. ",
+    "answers": [
+      {
+        "text": "<head>",
+        "correct": true
+      },
+      {
+        "text": "<body>",
+        "correct": false
+      },
+      {
+        "text": "<title>",
+        "correct": false
+      },
+      {
+        "text": "<html>",
+        "correct": false
+      }
+    ]
+  }
+]
